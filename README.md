@@ -1,6 +1,4 @@
-### Hello World! 
-- 🔭 I’m currently working on [Bergflix.](https://github.com/bergflix-remake)
-- 👨 Pronouns: he/him
+# Hello World! 
 
 [![@mondmarmelade's Holopin board](https://holopin.io/api/user/board?user=mondmarmelade)](https://holopin.io/@mondmarmelade)
 
