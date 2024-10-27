@@ -1,6 +1,6 @@
 # Hello World! 
 
-[![@mondmarmelade's Holopin board](https://holopin.io/api/user/board?user=mondmarmelade)](https://holopin.io/@mondmarmelade)
+[![An image of @mondmarmelade's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mondmarmelade)](https://holopin.io/@mondmarmelade)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mondmarmelade&theme=dark)
 
